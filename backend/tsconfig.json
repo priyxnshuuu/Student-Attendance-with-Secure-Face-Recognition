@@ -1,0 +1,14 @@
+{
+  "ts-node": {
+    "files": true
+  },
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "./outputData",
+    "strict": true,
+    "esModuleInterop": true,
+    "inlineSourceMap": true,
+    "skipLibCheck": true
+  }
+}

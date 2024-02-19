@@ -1,0 +1,9 @@
+**/logs
+node_modules/
+outputData/
+dist/
+requestErrors.log/
+requestInfo.log/
+requestWarnings.log/
+logs.log/
+*.log

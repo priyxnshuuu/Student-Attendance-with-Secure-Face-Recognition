@@ -1,0 +1,3 @@
+type TQrStringModel = {
+  QrString: string;
+};
